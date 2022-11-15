@@ -1,5 +1,5 @@
 (
-ALTER SESSION SET NLS_DATE_FORMAT = 'MM/DD/YYYY';
+ ALTER SESSION SET NLS_DATE_FORMAT = 'MM/DD/YYYY';
 CREATE TABLE customer (
     customer_id          number NOT NULL primary key,
     first_name             VARCHAR2(20),
