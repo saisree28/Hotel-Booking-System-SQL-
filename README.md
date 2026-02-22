@@ -6,7 +6,7 @@ __🏨 Project at a Glance:__
 
 This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review. The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.  
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 
  
  __🛠️ What This Database Does ?__ 
@@ -30,7 +30,7 @@ This project is a professional-grade SQL database designed to run a hotel's dail
 
 
 
-
+______________________________________________________________________________________________________________________________________________________________________________________________
 
 
 __📈 Key Business Features:__ 
