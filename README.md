@@ -53,10 +53,8 @@ __📈 Key Business Features:__
 🔗 How the Tables Connect 
 
     •	The Guest connects to the Reservation.   
-   
   
     •	The Reservation connects to the Room and the Invoice.   
    
-  
     •	The Invoice connects to the Services used and the final Payment.
 
