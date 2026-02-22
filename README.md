@@ -13,29 +13,29 @@ ________________________________________________________________________________
 
 1. Manages Guests & Bookings:
    
-  •	Guest Profiles: Keeps a clean record of names, emails, and addresses. 
+       •	Guest Profiles: Keeps a clean record of names, emails, and addresses. 
   
-  •	Stay Tracking: Manages check-in and check-out dates to ensure rooms are never double-booked. 
+       •	Stay Tracking: Manages check-in and check-out dates to ensure rooms are never double-booked. 
   
-  •	Source Tracking: Records if a guest booked directly or through a travel site (like Expedia).
+       •	Source Tracking: Records if a guest booked directly or through a travel site (like Expedia).
 
 2. Handles Room Inventory:
    
-  •	Live Status: The database knows exactly which rooms are occupied and which are ready for new guests. 
+       •	Live Status: The database knows exactly which rooms are occupied and which are ready for new guests. 
   
-  •	Pricing: Stores different prices for different room types (Standard vs. Executive).
+       •	Pricing: Stores different prices for different room types (Standard vs. Executive).
 
 3. Automated Billing & Payments:
    
-  •	Service Billing: Automatically adds extra costs like Spa treatments, Laundry, or Meals to the guest's bill. 
+       •	Service Billing: Automatically adds extra costs like Spa treatments, Laundry, or Meals to the guest's bill. 
   
-  •	Transactions: Tracks how guests pay (Cash, Credit, or Debit) for clear accounting. 
+       •	Transactions: Tracks how guests pay (Cash, Credit, or Debit) for clear accounting. 
   
-  •	Final Totals: Calculates the grand total by adding the room price to any extra services used.
+       •	Final Totals: Calculates the grand total by adding the room price to any extra services used.
 
 6. Quality Control
    
-  •	Guest Reviews: Links a 1-5 star rating to every completed payment so the hotel can see which guests were happy and why.
+       •	Guest Reviews: Links a 1-5 star rating to every completed payment so the hotel can see which guests were happy and why.
 
 
 
@@ -52,11 +52,11 @@ __📈 Key Business Features:__
 
 🔗 How the Tables Connect 
 
-   •	The Guest connects to the Reservation.   
+    •	The Guest connects to the Reservation.   
    
   
-   •	The Reservation connects to the Room and the Invoice.   
+    •	The Reservation connects to the Room and the Invoice.   
    
   
-   •	The Invoice connects to the Services used and the final Payment.
+    •	The Invoice connects to the Services used and the final Payment.
 
