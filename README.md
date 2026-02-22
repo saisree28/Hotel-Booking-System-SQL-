@@ -44,10 +44,13 @@ __📈 Key Business Features:__
  📊 Occupancy Tracking
   It calculates what percentage of the hotel is full at any given time, helping managers decide if they should offer discounts or raise prices.
 
-🔗 How the Tables Connect
-  •	The Guest connects to the Reservation. 
+🔗 How the Tables Connect 
+
+   •	The Guest connects to the Reservation.   
+   
   
-  •	The Reservation connects to the Room and the Invoice. 
+   •	The Reservation connects to the Room and the Invoice.   
+   
   
-  •	The Invoice connects to the Services used and the final Payment.
+   •	The Invoice connects to the Services used and the final Payment.
 
