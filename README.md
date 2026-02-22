@@ -4,7 +4,8 @@
 
 __🏨 Project at a Glance:__ 
 
-This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review. The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.
+This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review. The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.  
+
 
 
  
@@ -31,6 +32,7 @@ This project is a professional-grade SQL database designed to run a hotel's dail
 
 
 
+
 __📈 Key Business Features:__ 
 
  🔍 Room Availability
@@ -42,8 +44,10 @@ __📈 Key Business Features:__
  📊 Occupancy Tracking
   It calculates what percentage of the hotel is full at any given time, helping managers decide if they should offer discounts or raise prices.
 
-#🔗 How the Tables Connect
-  •	The Guest connects to the Reservation.
-  •	The Reservation connects to the Room and the Invoice.
+🔗 How the Tables Connect
+  •	The Guest connects to the Reservation. 
+  
+  •	The Reservation connects to the Room and the Invoice. 
+  
   •	The Invoice connects to the Services used and the final Payment.
 
