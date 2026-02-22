@@ -1,30 +1,32 @@
 # Hotel-Booking-System-SQL-
 
- Hotel Management System Database**
+ __Hotel Management System Database__
 
-__🏨 Project at a Glance__
-  This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review.
-The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.
+__🏨 Project at a Glance__ 
 
-** 🛠️ What This Database Does**
+This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review. The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.
+
+ __🛠️ What This Database Does__ 
 1. Manages Guests & Bookings
   •	Guest Profiles: Keeps a clean record of names, emails, and addresses.
   •	Stay Tracking: Manages check-in and check-out dates to ensure rooms are never double-booked.
   •	Source Tracking: Records if a guest booked directly or through a travel site (like Expedia).
 
-2. Handles Room Inventory
+3. Handles Room Inventory
   •	Live Status: The database knows exactly which rooms are occupied and which are ready for new guests.
   •	Pricing: Stores different prices for different room types (Standard vs. Executive).
 
-3. Automated Billing & Payments
+4. Automated Billing & Payments
   •	Service Billing: Automatically adds extra costs like Spa treatments, Laundry, or Meals to the guest's bill.
   •	Transactions: Tracks how guests pay (Cash, Credit, or Debit) for clear accounting.
   •	Final Totals: Calculates the grand total by adding the room price to any extra services used.
 
-4. Quality Control
+5. Quality Control
   •	Guest Reviews: Links a 1-5 star rating to every completed payment so the hotel can see which guests were happy and why.
 
-**📈 Key Business Features**
+
+
+__📈 Key Business Features__
  🔍 Room Availability
   The system can instantly list all "Ready" rooms. It does this by checking which rooms are not currently linked to an active guest stay.
 
