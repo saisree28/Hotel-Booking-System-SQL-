@@ -2,11 +2,14 @@
 
  __Hotel Management System Database__
 
-__🏨 Project at a Glance__ 
+__🏨 Project at a Glance:__ 
 
 This project is a professional-grade SQL database designed to run a hotel's daily operations. It tracks everything from the moment a guest books a room to the  moment they pay their final bill and leave a review. The system is built to be smart and organized, ensuring that no data is duplicated and that every dollar spent by a guest is accurately recorded.
 
- __🛠️ What This Database Does__ 
+
+ 
+ __🛠️ What This Database Does ?__ 
+
 1. Manages Guests & Bookings
   •	Guest Profiles: Keeps a clean record of names, emails, and addresses.
   •	Stay Tracking: Manages check-in and check-out dates to ensure rooms are never double-booked.
@@ -26,7 +29,10 @@ This project is a professional-grade SQL database designed to run a hotel's dail
 
 
 
-__📈 Key Business Features__
+
+
+__📈 Key Business Features:__ 
+
  🔍 Room Availability
   The system can instantly list all "Ready" rooms. It does this by checking which rooms are not currently linked to an active guest stay.
 
