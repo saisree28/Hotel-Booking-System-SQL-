@@ -35,13 +35,16 @@ ________________________________________________________________________________
 
 __📈 Key Business Features:__ 
 
- 🔍 Room Availability
+ 🔍 Room Availability 
+ 
   The system can instantly list all "Ready" rooms. It does this by checking which rooms are not currently linked to an active guest stay.
 
- 💰 Revenue Reporting
+ 💰 Revenue Reporting 
+ 
   The database creates reports that show management exactly how much money was made today, this month, or this year, broken down by payment method.
 
- 📊 Occupancy Tracking
+ 📊 Occupancy Tracking 
+ 
   It calculates what percentage of the hotel is full at any given time, helping managers decide if they should offer discounts or raise prices.
 
 🔗 How the Tables Connect 
